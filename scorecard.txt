@@ -1,0 +1,34 @@
++---------------------------+-----------------------------------------------+--------+
+|          Variable         |                      Bin                      | Points |
++---------------------------+-----------------------------------------------+--------+
+|         basepoints        |                      nan                      | 487.0  |
+|    loan_percent_income    |                  [-inf,0.16)                  |  53.0  |
+|    loan_percent_income    |                  [0.16,0.31)                  |  8.0   |
+|    loan_percent_income    |                   [0.31,inf)                  | -164.0 |
+|        loan_intent        |              VENTURE%,%EDUCATION              |  41.0  |
+|        loan_intent        |                    PERSONAL                   |  14.0  |
+|        loan_intent        | HOMEIMPROVEMENT%,%MEDICAL%,%DEBTCONSOLIDATION | -32.0  |
+|   person_home_ownership   |                      OWN                      |  90.0  |
+|   person_home_ownership   |                    MORTGAGE                   |  45.0  |
+|   person_home_ownership   |                  RENT%,%OTHER                 | -34.0  |
+| cb_person_default_on_file |                       N                       |  -0.0  |
+| cb_person_default_on_file |                       Y                       |  0.0   |
+|         loan_grade        |                       A                       |  78.0  |
+|         loan_grade        |                       B                       |  30.0  |
+|         loan_grade        |                       C                       |  6.0   |
+|         loan_grade        |                 D%,%E%,%F%,%G                 | -141.0 |
+|         loan_amnt         |                 [-inf,13000.0)                |  2.0   |
+|         loan_amnt         |               [13000.0,19000.0)               |  -4.0  |
+|         loan_amnt         |                 [19000.0,inf)                 |  -8.0  |
+|     person_emp_length     |                   [-inf,3.0)                  |  -8.0  |
+|     person_emp_length     |                   [3.0,8.0)                   |  3.0   |
+|     person_emp_length     |                   [8.0,inf)                   |  9.0   |
+|       person_income       |                 [-inf,35000.0)                | -58.0  |
+|       person_income       |               [35000.0,60000.0)               |  -2.0  |
+|       person_income       |               [60000.0,80000.0)               |  22.0  |
+|       person_income       |                 [80000.0,inf)                 |  54.0  |
+|       loan_int_rate       |                   [-inf,9.5)                  |  8.0   |
+|       loan_int_rate       |                   [9.5,14.0)                  |  2.0   |
+|       loan_int_rate       |                  [14.0,15.5)                  |  -9.0  |
+|       loan_int_rate       |                   [15.5,inf)                  | -15.0  |
++---------------------------+-----------------------------------------------+--------+
